@@ -10,5 +10,5 @@ python:alpine3.19
 mysql:8.0.31
 node
 mirantis/cnigenie
-calico/pod2daemon-flexvol:v3.21.0
+calico/pod2daemon-flexvol:v3.20.6
 calico/node:v3.20.6
