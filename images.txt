@@ -16,3 +16,4 @@ calico/kube-controllers:v3.20.6
 dquintela/openjdk-8-jdk-alpine:latest
 redis:3.2
 maven:3.5.4
+openjdk:8-jdk-alpine3.7
